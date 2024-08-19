@@ -1,0 +1,69 @@
+numpy==2.0.0
+pandas==2.2.2
+pip==24.1.1
+python==3.11.9.final.0
+dateutil==
+INSTALLED VERSIONS
+------------------
+commit                : d9cdd2ee5a58015ef6f4d15c7226110c9aab8140
+python                : 3.11.9.final.0
+python-bits           : 64
+OS                    : Windows
+OS-release            : 10
+Version               : 10.0.26120
+machine               : AMD64
+processor             : Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+byteorder             : little
+LC_ALL                : None
+LANG                  : None
+LOCALE                : English_Indonesia.1252
+
+pandas                : 2.2.2
+numpy                 : 2.0.0
+pytz                  : 2024.1
+dateutil              : 2.9.0.post0
+setuptools            : 65.5.0
+pip                   : 24.1.1
+Cython                : None
+pytest                : None
+hypothesis            : None
+sphinx                : None
+blosc                 : None
+feather               : None
+xlsxwriter            : 3.2.0
+lxml.etree            : None
+html5lib              : None
+pymysql               : None
+psycopg2              : None
+jinja2                : 3.1.4
+IPython               : 8.25.0
+pandas_datareader     : None
+adbc-driver-postgresql: None
+adbc-driver-sqlite    : None
+bs4                   : None
+bottleneck            : None
+dataframe-api-compat  : None
+fastparquet           : None
+fsspec                : None
+gcsfs                 : None
+matplotlib            : 3.9.0
+numba                 : None
+numexpr               : None
+odfpy                 : None
+openpyxl              : 3.1.5
+pandas_gbq            : None
+pyarrow               : 16.1.0
+pyreadstat            : None
+python-calamine       : None
+pyxlsb                : None
+s3fs                  : None
+scipy                 : 1.13.1
+sqlalchemy            : None
+tables                : None
+tabulate              : None
+xarray                : None
+xlrd                  : None
+zstandard             : None
+tzdata                : 2024.1
+qtpy                  : None
+pyqt5                 : None
